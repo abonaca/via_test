@@ -1,0 +1,30 @@
+/*  src/Title.css  */
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(0,0,0);
+  color: #fff;
+}
+
+#logo {
+  position: absolute;
+  top: 32px;
+  left: 50px;
+  width: auto;
+  height: 30px;
+}
+
+#logo img, #logo svg {
+  display: block;
+  width: auto;
+  height: 100%;
+}
+
+#logo .fill-white {
+  fill: #fff;
+}
