@@ -118,7 +118,7 @@ a:not(.hover-none):hover {
 
 #navigation {
   display: inline-block;
-  left: 250px;
+  left: 200px;
 }
 
 #navigation, #navigation-right {
