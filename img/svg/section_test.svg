@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1122.5197"
+   height="793.70081"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1527"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="section_test.svg">
+  <defs
+     id="defs1521">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1313">
+      <rect
+         style="fill:#000000;fill-opacity:0.29;stroke:none;stroke-width:0.673365;stroke-miterlimit:4;stroke-dasharray:2.69346, 2.69346;stroke-dashoffset:0;paint-order:markers fill stroke"
+         id="rect1315"
+         width="163.6268"
+         height="87.588974"
+         x="18.240572"
+         y="10.321674" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1700041"
+     inkscape:cx="381.49354"
+     inkscape:cy="556.19149"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata1524">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.673409;stroke-dasharray:2.69364, 2.69364;paint-order:markers fill stroke"
+       id="rect836"
+       width="163.6268"
+       height="87.588974"
+       x="18.240572"
+       y="10.321674" />
+    <image
+       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/earth.jpg"
+       xlink:href="../img/earth.jpg"
+       clip-path="url(#clipPath1313)"
+       style="stroke-width:4.2038"
+       y="28.246695"
+       x="3.7038023"
+       id="image1195"
+       preserveAspectRatio="none"
+       height="189.57259"
+       width="193.34892" />
+    <rect
+       style="fill:#000000;fill-opacity:0.28999999;stroke:none;stroke-width:0.673409;stroke-dasharray:2.69364, 2.69363999999999981;paint-order:markers fill stroke"
+       id="rect1317"
+       width="163.6268"
+       height="87.588974"
+       x="18.240572"
+       y="10.321674" />
+    <g
+       id="g916"
+       transform="translate(0,-116.41668)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 27.190897,132.91542 h 1.49903 l -0.03856,3.57942 2.409729,-3.57942 h 1.575711 l -2.389678,3.8465 c -0.15378,0.24755 -0.310224,0.48127 -0.564092,0.62522 -0.312582,0.17725 -0.518768,0.23298 -0.943531,0.21355 -0.370294,-0.0169 -0.701561,-0.0841 -0.987821,-0.24709 -0.380785,-0.21678 -0.561172,-0.55732 -0.601992,-0.9398 z"
+         id="path876"
+         sodipodi:nodetypes="ccccccssscc" />
+      <g
+         id="g850"
+         style="font-size:87.1121px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.88737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="matrix(0.11281833,0,0,0.10666807,17.413006,118.52689)"
+         inkscape:export-filename="/home/ana/projects/via/img/logo_slant.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <g
+           id="g862"
+           style="opacity:1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.88737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 148.47656,134.89062 h 13.55469 l -24.71875,42.51563 h -13.55664 z"
+             id="path866"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 39.915928,137.45048 h -1.49903 l 0.03856,-3.57943 -2.40973,3.57943 h -1.575712 l 2.389678,-3.84651 c 0.153781,-0.24755 0.310225,-0.48126 0.564092,-0.62522 0.312583,-0.17725 0.51877,-0.23298 0.943533,-0.21354 0.370294,0.0169 0.70156,0.0841 0.987822,0.24708 0.380784,0.21678 0.561171,0.55732 0.601992,0.93981 z"
+         id="path885"
+         sodipodi:nodetypes="ccccccssscc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="49.985184"
+       y="19.678812"
+       id="text889"><tspan
+         sodipodi:role="line"
+         id="tspan887"
+         x="49.985184"
+         y="19.678812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">MISSION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="65.330421"
+       y="19.684374"
+       id="text893"><tspan
+         sodipodi:role="line"
+         id="tspan891"
+         x="65.330421"
+         y="19.684374"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">SPECTROGRAPHS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="90.747307"
+       y="19.678812"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="90.747307"
+         y="19.678812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">TELESCOPES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="110.50358"
+       y="19.678812"
+       id="text901"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="110.50358"
+         y="19.678812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">SURVEY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="125.23909"
+       y="19.694094"
+       id="text905"><tspan
+         sodipodi:role="line"
+         id="tspan903"
+         x="125.23909"
+         y="19.694094"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">TEAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5681px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819"
+       x="58.743267"
+       y="57.814995"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="58.743267"
+         y="57.814995"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819">THE VIA PROJECT</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.673409;stroke-dasharray:2.69364, 2.69364;paint-order:markers fill stroke"
+       id="rect1055"
+       width="163.6268"
+       height="87.588974"
+       x="18.240572"
+       y="105.57166" />
+    <image
+       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/city_lights_namerica_8k.jpg"
+       xlink:href="../img/city_lights_namerica_8k.jpg"
+       style="stroke-width:30.1602"
+       y="123.47647"
+       x="114.44205"
+       id="image1309"
+       preserveAspectRatio="none"
+       height="71.864815"
+       width="71.864815" />
+    <g
+       id="g1067"
+       transform="translate(0,-21.166665)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 27.190897,132.91542 h 1.49903 l -0.03856,3.57942 2.409729,-3.57942 h 1.575711 l -2.389678,3.8465 c -0.15378,0.24755 -0.310224,0.48127 -0.564092,0.62522 -0.312582,0.17725 -0.518768,0.23298 -0.943531,0.21355 -0.370294,-0.0169 -0.701561,-0.0841 -0.987821,-0.24709 -0.380785,-0.21678 -0.561172,-0.55732 -0.601992,-0.9398 z"
+         id="path1057"
+         sodipodi:nodetypes="ccccccssscc" />
+      <g
+         id="g1063"
+         style="font-size:87.1121px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.88737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="matrix(0.11281833,0,0,0.10666807,17.413006,118.52689)"
+         inkscape:export-filename="/home/ana/projects/via/img/logo_slant.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <g
+           id="g1061"
+           style="opacity:1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.88737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 148.47656,134.89062 h 13.55469 l -24.71875,42.51563 h -13.55664 z"
+             id="path1059"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 39.915928,137.45048 h -1.49903 l 0.03856,-3.57943 -2.40973,3.57943 h -1.575712 l 2.389678,-3.84651 c 0.153781,-0.24755 0.310225,-0.48126 0.564092,-0.62522 0.312583,-0.17725 0.51877,-0.23298 0.943533,-0.21354 0.370294,0.0169 0.70156,0.0841 0.987822,0.24708 0.380784,0.21678 0.561171,0.55732 0.601992,0.93981 z"
+         id="path1065"
+         sodipodi:nodetypes="ccccccssscc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="49.985184"
+       y="114.92879"
+       id="text1071"><tspan
+         sodipodi:role="line"
+         id="tspan1069"
+         x="49.985184"
+         y="114.92879"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">MISSION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="65.330421"
+       y="114.93436"
+       id="text1075"><tspan
+         sodipodi:role="line"
+         id="tspan1073"
+         x="65.330421"
+         y="114.93436"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">SPECTROGRAPHS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="90.747307"
+       y="114.92879"
+       id="text1079"><tspan
+         sodipodi:role="line"
+         id="tspan1077"
+         x="90.747307"
+         y="114.92879"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">TELESCOPES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="110.50358"
+       y="114.92879"
+       id="text1083"><tspan
+         sodipodi:role="line"
+         id="tspan1081"
+         x="110.50358"
+         y="114.92879"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">SURVEY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="125.23909"
+       y="114.94408"
+       id="text1087"><tspan
+         sodipodi:role="line"
+         id="tspan1085"
+         x="125.23909"
+         y="114.94408"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">TEAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55279px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819"
+       x="33.846001"
+       y="138.51875"
+       id="text1091"><tspan
+         sodipodi:role="line"
+         id="tspan1089"
+         x="33.846001"
+         y="138.51875"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819">TEAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819"
+       x="33.846001"
+       y="146.98538"
+       id="text1095"><tspan
+         sodipodi:role="line"
+         id="tspan1093"
+         x="33.846001"
+         y="146.98538"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;stroke-width:0.113819">LEADERSHIP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#999999;stroke-width:0.113819"
+       x="55.568645"
+       y="146.98538"
+       id="text1099"><tspan
+         sodipodi:role="line"
+         id="tspan1097"
+         x="55.568645"
+         y="146.98538"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#999999;stroke-width:0.113819">ALL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="34.11018"
+       y="174.19545"
+       id="text1107"><tspan
+         sodipodi:role="line"
+         id="tspan1105"
+         x="34.11018"
+         y="174.19545"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">INSTRUMENT PI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="174.19545"
+       id="text1113"><tspan
+         sodipodi:role="line"
+         id="tspan1111"
+         x="71.294868"
+         y="174.19545"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Dan Fabricant <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#b3b3b3"
+   id="tspan1109">/ CfA</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="34.235638"
+       y="159.68715"
+       id="text1117"><tspan
+         sodipodi:role="line"
+         id="tspan1115"
+         x="34.235638"
+         y="159.68715"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">PROJECT PIs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="164.97882"
+       id="text1123"><tspan
+         sodipodi:role="line"
+         id="tspan1121"
+         x="71.294868"
+         y="164.97882"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Ana Bonaca <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#b3b3b3"
+   id="tspan1119">/ Carnegie</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="159.68715"
+       id="text1129"><tspan
+         sodipodi:role="line"
+         id="tspan1127"
+         x="71.294868"
+         y="159.68715"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Charlie Conroy <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#b3b3b3"
+   id="tspan1125">/ CfA</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 33.664096,148.89976 H 49.345953"
+       id="path1141" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 33.664098,178.32177 H 96.824274"
+       id="path1143" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 33.664097,168.90213 H 96.824274"
+       id="path1145" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';white-space:pre;inline-size:91.3145;fill:#ffffff;stroke-width:0.113819"
+       x="75.563919"
+       y="48.560444"
+       id="text1149"
+       transform="translate(-21.185169,17.929058)"><tspan
+         x="75.563919"
+         y="48.560444"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.175px;font-family:Asap;-inkscape-font-specification:'Asap Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.113819">A COLLABORATION BETWEEN CENTER FOR ASTROPHYSICS, </tspan></tspan><tspan
+         x="75.563919"
+         y="52.529194"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.175px;font-family:Asap;-inkscape-font-specification:'Asap Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.113819">CARNEGIE OBSERVATORIES AND UNIVERSITY OF ARIZONA</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.673409;stroke-dasharray:2.69364, 2.69364;paint-order:markers fill stroke"
+       id="rect1319"
+       width="163.6268"
+       height="87.588974"
+       x="18.240572"
+       y="200.8217" />
+    <image
+       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/city_lights_namerica_8k.jpg"
+       xlink:href="../img/city_lights_namerica_8k.jpg"
+       style="stroke-width:30.1602"
+       y="218.72652"
+       x="114.44205"
+       id="image1321"
+       preserveAspectRatio="none"
+       height="71.864815"
+       width="71.864815" />
+    <g
+       id="g1333"
+       transform="translate(0,74.083338)">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 27.190897,132.91542 h 1.49903 l -0.03856,3.57942 2.409729,-3.57942 h 1.575711 l -2.389678,3.8465 c -0.15378,0.24755 -0.310224,0.48127 -0.564092,0.62522 -0.312582,0.17725 -0.518768,0.23298 -0.943531,0.21355 -0.370294,-0.0169 -0.701561,-0.0841 -0.987821,-0.24709 -0.380785,-0.21678 -0.561172,-0.55732 -0.601992,-0.9398 z"
+         id="path1323"
+         sodipodi:nodetypes="ccccccssscc" />
+      <g
+         id="g1329"
+         style="font-size:87.1121px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.88737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="matrix(0.11281833,0,0,0.10666807,17.413006,118.52689)"
+         inkscape:export-filename="/home/ana/projects/via/img/logo_slant.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <g
+           id="g1327"
+           style="opacity:1">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.88737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 148.47656,134.89062 h 13.55469 l -24.71875,42.51563 h -13.55664 z"
+             id="path1325"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.316745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 39.915928,137.45048 h -1.49903 l 0.03856,-3.57943 -2.40973,3.57943 h -1.575712 l 2.389678,-3.84651 c 0.153781,-0.24755 0.310225,-0.48126 0.564092,-0.62522 0.312583,-0.17725 0.51877,-0.23298 0.943533,-0.21354 0.370294,0.0169 0.70156,0.0841 0.987822,0.24708 0.380784,0.21678 0.561171,0.55732 0.601992,0.93981 z"
+         id="path1331"
+         sodipodi:nodetypes="ccccccssscc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="49.985184"
+       y="210.17882"
+       id="text1337"><tspan
+         sodipodi:role="line"
+         id="tspan1335"
+         x="49.985184"
+         y="210.17882"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">MISSION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="65.330421"
+       y="210.18437"
+       id="text1341"><tspan
+         sodipodi:role="line"
+         id="tspan1339"
+         x="65.330421"
+         y="210.18437"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">SPECTROGRAPHS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="90.747307"
+       y="210.17882"
+       id="text1345"><tspan
+         sodipodi:role="line"
+         id="tspan1343"
+         x="90.747307"
+         y="210.17882"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">TELESCOPES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="110.50358"
+       y="210.17882"
+       id="text1349"><tspan
+         sodipodi:role="line"
+         id="tspan1347"
+         x="110.50358"
+         y="210.17882"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">SURVEY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="125.23909"
+       y="210.19409"
+       id="text1353"><tspan
+         sodipodi:role="line"
+         id="tspan1351"
+         x="125.23909"
+         y="210.19409"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">TEAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.55279px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819"
+       x="33.846001"
+       y="233.7688"
+       id="text1357"><tspan
+         sodipodi:role="line"
+         id="tspan1355"
+         x="33.846001"
+         y="233.7688"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819">TEAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#999999;stroke-width:0.113819;"
+       x="33.846001"
+       y="242.23543"
+       id="text1361"><tspan
+         sodipodi:role="line"
+         id="tspan1359"
+         x="33.846001"
+         y="242.23543"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#999999;stroke-width:0.113819;">LEADERSHIP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Semi-Bold';fill:#ffffff;stroke-width:0.113819;"
+       x="55.568645"
+       y="242.23543"
+       id="text1365"><tspan
+         sodipodi:role="line"
+         id="tspan1363"
+         x="55.568645"
+         y="242.23543"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;stroke-width:0.113819;">ALL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="253.57048"
+       id="text1375"><tspan
+         sodipodi:role="line"
+         id="tspan1373"
+         x="71.294868"
+         y="253.57048"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Dan Fabricant<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#b3b3b3"
+   id="tspan1371" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="37.957363"
+       y="253.57048"
+       id="text1385"><tspan
+         sodipodi:role="line"
+         id="tspan1383"
+         x="37.957363"
+         y="253.57048"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Ana Bonaca<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#b3b3b3"
+   id="tspan1381" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="37.957363"
+       y="276.85382"
+       id="text1391"><tspan
+         sodipodi:role="line"
+         id="tspan1389"
+         x="37.957363"
+         y="276.85382"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Charlie Conroy</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.234943,244.1498 h 4.973965"
+       id="path1393" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 33.664098,247.11345 H 94.836997"
+       id="path1395" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.664097,281.08551 h 61.1729"
+       id="path1397" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="37.957363"
+       y="271.03299"
+       id="text1401"><tspan
+         sodipodi:role="line"
+         id="tspan1399"
+         x="37.957363"
+         y="271.03299"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Vedant Chandra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="37.957363"
+       y="265.21216"
+       id="text1405"><tspan
+         sodipodi:role="line"
+         id="tspan1403"
+         x="37.957363"
+         y="265.21216"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Phill Cargile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="259.39133"
+       id="text1411"><tspan
+         sodipodi:role="line"
+         id="tspan1409"
+         x="71.294868"
+         y="259.39133"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Charlie Hull</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="37.957363"
+       y="259.39133"
+       id="text1415"><tspan
+         sodipodi:role="line"
+         id="tspan1413"
+         x="37.957363"
+         y="259.39133"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Julia Brady</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="276.85382"
+       id="text1419"><tspan
+         sodipodi:role="line"
+         id="tspan1417"
+         x="71.294868"
+         y="276.85382"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Alan Uomoto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="271.03299"
+       id="text1423"><tspan
+         sodipodi:role="line"
+         id="tspan1421"
+         x="71.294868"
+         y="271.03299"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Conor Sayers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;line-height:1.25;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281"
+       x="71.294868"
+       y="265.21216"
+       id="text1427"><tspan
+         sodipodi:role="line"
+         id="tspan1425"
+         x="71.294868"
+         y="265.21216"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.50913px;font-family:Asap;-inkscape-font-specification:'Asap Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.0694281">Solange Ramirez</tspan></text>
+  </g>
+</svg>

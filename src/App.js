@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import Title from './Title';
+import Tiles from './Tiles';
 
 function App() {
   return (
-    <div className="App">
+    <div id="wrapper">
       <Title />
-      <img height="100" src={logo} />
+      <Tiles />
     </div>
   );
 }
