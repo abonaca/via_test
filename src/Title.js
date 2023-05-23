@@ -7,7 +7,7 @@ function Title() {
   return (
     <div id="header" className="section">
       <div className="header-inner">
-      
+        
         <a href="/" id="logo" alt="Via - go to homepage">
           <svg version="1.1" x="0px" y="0px" viewBox="0 0 21.16664 8.0036713">
             <title>Via Logo</title>
@@ -32,6 +32,7 @@ function Title() {
             <li className="nav-item"><a href="/team/">Team</a></li>
           </ul>
         </div>
+        
       </div>
     </div>
   )
