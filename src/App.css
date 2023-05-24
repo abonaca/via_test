@@ -224,6 +224,12 @@ a:not(.hover-none):hover {
   margin: 0 auto;
   text-align: center;
 }
+.inner-right-bottom {
+  position: absolute;
+  bottom: 15%;
+  right: 150px;
+  text-align: left;
+}
 .inner-center-middle {
   position: absolute;
   width: 80%;
@@ -235,7 +241,7 @@ a:not(.hover-none):hover {
 }
 
 .indent {
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 h1, h2, h3 {
