@@ -224,6 +224,15 @@ a:not(.hover-none):hover {
   margin: 0 auto;
   text-align: center;
 }
+.inner-center-middle {
+  position: absolute;
+  width: 80%;
+  bottom: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+  text-align: center;
+}
 
 
 h1, h2, h3 {
