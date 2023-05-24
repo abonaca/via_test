@@ -9,7 +9,7 @@ import Team from "./pages/Team";
 
 export default function App() {
   return (
-    <BrowserRouter basemname={`/${process.env.PUBLIC_URL}`}>
+    <HashRouter basemname={`/${process.env.PUBLIC_URL}`}>
       <Routes>
         <Route index element={<Home />} />
         <Route path="mission" element={<Mission />} />
@@ -18,7 +18,7 @@ export default function App() {
         <Route path="survey" element={<Survey />} />
         <Route path="team" element={<Team />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

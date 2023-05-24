@@ -25,11 +25,11 @@ function Title() {
         
         <div id="navigation">
           <ul className="nav-links">
-            <li className="nav-item"><a href="/mission/">Mission</a></li>
-            <li className="nav-item"><a href="/spectrographs/">Spectrographs</a></li>
-            <li className="nav-item"><a href="/telescopes/">Telescopes</a></li>
-            <li className="nav-item"><a href="/survey/">Survey</a></li>
-            <li className="nav-item"><a href="/team/">Team</a></li>
+            <li className="nav-item"><a href="/#/mission/">Mission</a></li>
+            <li className="nav-item"><a href="/#/spectrographs/">Spectrographs</a></li>
+            <li className="nav-item"><a href="/#/telescopes/">Telescopes</a></li>
+            <li className="nav-item"><a href="/#/survey/">Survey</a></li>
+            <li className="nav-item"><a href="/#/team/">Team</a></li>
           </ul>
         </div>
         
