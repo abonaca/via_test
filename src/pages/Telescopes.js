@@ -1,6 +1,5 @@
 import '../App.css';
 import Title from '../Title';
-import Tiles from '../Tiles';
 
 function App() {
   return (

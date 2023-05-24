@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Mission from "./pages/Mission";
 import Spectrographs from "./pages/Spectrographs";
@@ -9,7 +9,7 @@ import Team from "./pages/Team";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basemname={`/${process.env.PUBLIC_URL}`}>
       <Routes>
         <Route index element={<Home />} />
         <Route path="mission" element={<Mission />} />

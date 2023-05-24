@@ -234,6 +234,9 @@ a:not(.hover-none):hover {
   text-align: center;
 }
 
+.indent {
+  padding-left: 20px;
+}
 
 h1, h2, h3 {
   position: relative;

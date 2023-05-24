@@ -1,6 +1,5 @@
 import '../App.css';
 import Title from '../Title';
-import Tiles from '../Tiles';
 
 function App() {
   return (
@@ -8,9 +7,13 @@ function App() {
       <Title />
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/TNG50_protocluster_med.png)"}}></div>
-        <div className="inner-center-bottom">
-          <h1>Mission</h1>
-          <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>Discover the nature of dark matter and drivers of galaxy formation</h4>
+        <div className="inner-left-bottom">
+          <h2>Discover</h2>
+          <h3 className="indent">The nature of dark matter</h3>
+          <h2 style={{marginTop: "10px"}}>Find</h2>
+          <h3 className="indent">The edge of galaxy formation</h3>
+          <h2 style={{marginTop: "10px"}}>Map</h2>
+          <h3 className="indent">The cold gas feeding the Milky Way</h3>
         </div>
       </div>
     </div>

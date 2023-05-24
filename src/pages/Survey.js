@@ -1,6 +1,5 @@
 import '../App.css';
 import Title from '../Title';
-import Tiles from '../Tiles';
 
 function App() {
   return (
@@ -10,7 +9,7 @@ function App() {
         <div className="background" style={{backgroundImage: "url(../img/survey_footprint_med.png)"}}></div>
         <div className="inner-center-middle">
           <h1>An all-sky survey</h1>
-          <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'5 years \u25cf 150 nights per year \u25cf 3 million spectra'}</h4>
+          <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'150 nights per year \u25cf 5 years \u25cf 3 million spectra'}</h4>
         </div>
       </div>
     </div>
