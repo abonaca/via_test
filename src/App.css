@@ -244,6 +244,44 @@ a:not(.hover-none):hover {
   margin-left: -20px;
 }
 
+
+.inner-left-top {
+  position: absolute;
+  top: 15%;
+  left: 100px;
+  width: 50%;
+  max-width: 420px;
+  text-align: left;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    margin-right: -20px;
+}
+table td {
+    font: 16px/18px Asap-Medium, Arial, Verdana, sans-serif;
+    text-align: left;
+    color: #fff;
+    padding: 20px 0;
+    border-bottom: 1pt solid rgba(255, 255, 255, .3);
+}
+table.data td {
+    text-align: right;
+}
+table.data td:first-child {
+    font: 16px/18px Asap-SemiBold, Arial, Verdana, sans-serif;
+    text-align: left;
+}
+table.data td span {
+    color: #868686;
+}
+
+table.data a {
+  font-weight: 400;
+}
+
+
 h1, h2, h3 {
   position: relative;
   text-transform: uppercase;
