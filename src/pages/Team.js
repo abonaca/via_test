@@ -47,7 +47,22 @@ function App() {
             <h3>Team</h3>
             <p style={{color: "#fff"}}>A small group of engineers, project managers, and scientists with experience in building optical spectrographs, focal plane systems, and control and analysis pipelines are the core builders of Via.</p>
             
-            
+            <table>
+            <tbody>
+              <tr>
+                <td>Julia Brady<span> / Carnegie</span></td><td>Solange Ramirez<span> / Carnegie</span></td>
+              </tr>
+              <tr>
+                <td>Phill Cargile<span> / Harvard</span></td><td>Conor Sayers<span> / SAO</span></td>
+              </tr>
+              <tr>
+                <td>Vedant Chandra<span> / Harvard</span></td><td>Alan Uomoto<span> / Carnegie</span></td>
+              </tr>
+              <tr>
+                <td>Charlie Hull<span> / Carnegie</span></td>
+              </tr>
+            </tbody>
+          </table>
             
           </div>
         </div>

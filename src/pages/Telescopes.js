@@ -45,7 +45,7 @@ function App() {
         <div className="inner-left-top" style={{textColor: "#fff", width:"35%"}}>
           <h4 style={{textTransform:"uppercase"}}>Chile</h4>
           <h3>Magellan</h3>
-          <p style={{color: "#fff"}}>Via will be mounted at the f/5 focus of the 6.5m Magellan/Clay telescope, which has the identical 1deg field-of-view to MMT. Operated by Carnegie Observatories at the <a href="https://www.lco.cl/">Las Campanas Observatory</a>.</p>
+          <p style={{color: "#fff"}}>Via will be mounted at the f/5 focus of the 6.5m Magellan/Clay telescope, which has the identical 1deg field-of-view to MMT. Operated by the Carnegie Institution for Science at the <a href="https://www.lco.cl/">Las Campanas Observatory</a>.</p>
           
           <table className="data">
             <tbody>
