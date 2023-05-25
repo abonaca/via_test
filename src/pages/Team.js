@@ -41,11 +41,14 @@ function App() {
         </div>
         
         <div className="section">
-          <div className="background" style={{backgroundColor: "#f00"}}></div>
-          <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 70%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
-          <div className="inner-right-bottom" style={{textColor: "#fff", width:"30%"}}>
+          <div className="background" style={{backgroundImage: "url(../img/parts_med.jpg)"}}></div>
+          <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 65%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
+          <div className="inner-right-bottom" style={{textColor: "#fff", width:"35%"}}>
             <h3>Team</h3>
             <p style={{color: "#fff"}}>A small group of engineers, project managers, and scientists with experience in building optical spectrographs, focal plane systems, and control and analysis pipelines are the core builders of Via.</p>
+            
+            
+            
           </div>
         </div>
     </div>
