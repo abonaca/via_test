@@ -27,12 +27,12 @@ function App() {
                   <td>
                     <a href="https://obs.carnegiescience.edu/dr-ana-bonaca-0">Ana Bonaca<span> / Carnegie</span></a>
                     <span style={{paddingTop:"10px", display:"block"}}></span>
-                    <a href="https://scholar.harvard.edu/cconroy/home">Charlie Conroy<span> / Harvard</span></a>
+                    <a href="https://scholar.harvard.edu/cconroy/home">Charlie Conroy<span> / CfA</span></a>
                   </td>
                 </tr>
                 <tr>
                   <td>INSTRUMENT PI</td>
-                  <td><a href="https://www.cfa.harvard.edu/people/daniel-fabricant">Dan Fabricant<span> / SAO</span></a></td>
+                  <td><a href="https://www.cfa.harvard.edu/people/daniel-fabricant">Dan Fabricant<span> / CfA</span></a></td>
                 </tr>
               </tbody>
             </table>
@@ -53,13 +53,13 @@ function App() {
                 <td>Julia Brady<span> / Carnegie</span></td><td>Solange Ramirez<span> / Carnegie</span></td>
               </tr>
               <tr>
-                <td>Phill Cargile<span> / Harvard</span></td><td>Conor Sayers<span> / SAO</span></td>
+                <td>Phill Cargile<span> / CfA</span></td><td>Conor Sayers<span> / CfA</span></td>
               </tr>
               <tr>
-                <td>Vedant Chandra<span> / Harvard</span></td><td>Alan Uomoto<span> / Carnegie</span></td>
+                <td>Vedant Chandra<span> / CfA</span></td><td>Alan Uomoto<span> / Carnegie</span></td>
               </tr>
               <tr>
-                <td>Charlie Hull<span> / Carnegie</span></td>
+                <td>Charlie Hull<span> / Carnegie</span></td><td>Dennis Zaritsky<span> / Arizona</span></td>
               </tr>
             </tbody>
           </table>
