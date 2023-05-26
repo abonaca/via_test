@@ -19,7 +19,7 @@ function App() {
           
           <div className="inner-left-top" style={{textColor:"#fff", top:"auto", bottom:"15%"}}>
             <h3>Leadership</h3>
-            <p style={{color: "#fff"}}>Via is lead by the team behind the <a href="http://h3survey.rc.fas.harvard.edu/">H3 survey</a>.</p>
+            <p style={{color: "#fff"}}>Via is lead by the team behind the <a href="http://h3survey.rc.fas.harvard.edu/">H3</a>, a spectroscopic survey of ~300,000 Milky Way halo stars in the Northern hemisphere.</p>
             <table className="data">
               <tbody>
                 <tr>
