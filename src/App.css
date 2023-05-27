@@ -56,6 +56,28 @@ body, #root {
   font-display: block;
 }
 
+@font-face {
+  font-family: Sarabun-Regular;
+  src: url(../fonts/Sarabun-Regular.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: Sarabun-Medium;
+  src: url(../fonts/Sarabun-Medium.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: Sarabun-SemiBold;
+  src: url(../fonts/Sarabun-SemiBold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+
 a:focus {
   outline: dotted thin;
 }
@@ -100,7 +122,7 @@ a:not(.hover-none):hover {
 
 #logo {
   position: absolute;
-  top: 32px;
+  top: 35px;
   left: 80px;
   width: auto;
   height: 30px;
@@ -144,7 +166,7 @@ a:not(.hover-none):hover {
 }
 .nav-links a {
   position: relative;
-  font: 15px/30px Asap-SemiBold, Arial, Verdana, sans-serif;
+  font: 18px/33px Sarabun-SemiBold, Arial, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #fff;
@@ -260,7 +282,7 @@ table {
     margin-right: -20px;
 }
 table td {
-    font: 16px/18px Asap-Medium, Arial, Verdana, sans-serif;
+    font: 16px/18px Sarabun-Medium, Arial, Verdana, sans-serif;
     text-align: left;
     color: #fff;
     padding: 20px 0;
@@ -270,7 +292,7 @@ table.data td {
     text-align: right;
 }
 table.data td:first-child {
-    font: 16px/18px Asap-SemiBold, Arial, Verdana, sans-serif;
+    font: 16px/18px Sarabun-SemiBold, Arial, Verdana, sans-serif;
     text-align: left;
 }
 table.data td span {
@@ -288,28 +310,36 @@ h1, h2, h3 {
   color: #fff;
 }
 h1 {
-  font: 80px/70px Asap-SemiBold, Arial, Verdana, sans-serif;
+  font: 80px/70px Sarabun-SemiBold, Arial, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   margin: auto;
 }
 h2 {
-  font: 46px/50px Asap-SemiBold, Verdana, sans-serif;
+  font: 46px/50px Sarabun-SemiBold, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   margin: auto;
 }
 h3 {
-  font: 30px/34px Asap-SemiBold, Verdana, sans-serif;
+  font: 30px/34px Sarabun-SemiBold, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   margin: auto;
 }
 h4 {
   position: relative;
-  font: 20px/38px Asap-Regular, Arial, Verdana, sans-serif;
+  font: 20px/38px Sarabun-Regular, Arial, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #fff;
   margin: auto;
+}
+
+p {
+  position: relative;
+  font: 16px/22px Sarabun-Regular, Arial, Verdana, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #fff;
 }

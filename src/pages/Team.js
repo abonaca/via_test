@@ -7,19 +7,19 @@ function App() {
       <Title />
         <div className="section">
           <div className="background" style={{backgroundImage: "url(../img/us_night_med.jpg)"}}></div>
-          <div className="inner-center-bottom">
+          <div className="inner-center-bottom" style={{bottom:"2%"}}>
             <h1>A Collaboration</h1>
             <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'Carnegie Observatories \u25cf Center for Astrophysics \u25cf University of Arizona'}</h4>
           </div>
         </div>
         
         <div className="section">
-          <div className="background" style={{backgroundImage: "url(../img/cfa_coffee_med.png)"}}></div>
+          <div className="background" style={{backgroundImage: "url(../img/pipes_colcorr_med.jpg)"}}></div>
           <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
           
           <div className="inner-left-top" style={{textColor:"#fff", top:"auto", bottom:"15%"}}>
             <h3>Leadership</h3>
-            <p style={{color: "#fff"}}>Via is lead by the team behind the <a href="http://h3survey.rc.fas.harvard.edu/">H3</a>, a spectroscopic survey of ~300,000 Milky Way halo stars in the Northern hemisphere.</p>
+            <p style={{color: "#fff"}}>Via is lead by the team behind <a href="http://h3survey.rc.fas.harvard.edu/">H3</a>, a spectroscopic survey of ~300,000 Milky Way halo stars in the Northern hemisphere.</p>
             <table className="data">
               <tbody>
                 <tr>

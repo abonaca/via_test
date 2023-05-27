@@ -7,9 +7,9 @@ function Tiles() {
   return (
     <div className="section">
       <div className="background" style={{backgroundImage: "url(img/mw_igor_desktop.jpg)"}}></div>
-      <div className="inner-left-bottom">
-        <h1 style={{textTransform: "uppercase", marginBottom: "10px"}}>The Via Project</h1>
-        <h2 style={{textTransform: "uppercase"}}>Into the Milky Way's final frontier</h2>
+      <div className="inner-left-bottom" style={{textAlign:"center"}}>
+        <h1 style={{textTransform: "uppercase", marginBottom: "13px"}}>The Via Project</h1>
+        <h3 style={{textTransform: "uppercase"}}>Frontier of discovery in the Milky Way</h3>
       </div>
     </div>
   )
