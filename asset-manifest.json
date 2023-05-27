@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.2ac58974.css",
-    "main.js": "./static/js/main.a50ea24c.js",
+    "main.css": "./static/css/main.7b545021.css",
+    "main.js": "./static/js/main.c8c6971f.js",
+    "static/media/Sarabun-Regular.ttf": "./static/media/Sarabun-Regular.7f9f38eec4942d763fa1.ttf",
+    "static/media/Sarabun-Medium.ttf": "./static/media/Sarabun-Medium.b7152f7b86b43f62732b.ttf",
+    "static/media/Sarabun-SemiBold.ttf": "./static/media/Sarabun-SemiBold.3faced5f552ed2f4b268.ttf",
     "static/media/Asap-SemiBold.ttf": "./static/media/Asap-SemiBold.1ecdfd7742450d5bd631.ttf",
     "static/media/Asap-Medium.ttf": "./static/media/Asap-Medium.661edfc559d1220a4348.ttf",
     "static/media/Asap-Regular.ttf": "./static/media/Asap-Regular.b4d52aca2eeb50f67dbd.ttf",
     "index.html": "./index.html",
-    "main.2ac58974.css.map": "./static/css/main.2ac58974.css.map",
-    "main.a50ea24c.js.map": "./static/js/main.a50ea24c.js.map"
+    "main.7b545021.css.map": "./static/css/main.7b545021.css.map",
+    "main.c8c6971f.js.map": "./static/js/main.c8c6971f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac58974.css",
-    "static/js/main.a50ea24c.js"
+    "static/css/main.7b545021.css",
+    "static/js/main.c8c6971f.js"
   ]
 }
