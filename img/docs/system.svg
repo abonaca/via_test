@@ -13,9 +13,9 @@
    width="2600"
    height="1408"
    viewBox="0 0 2600 1408"
-   sodipodi:docname="fps.svg"
+   sodipodi:docname="system.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/ana/web/react_hack/via_test/via/public/img/viaspec_fps_med.png"
+   inkscape:export-filename="/home/ana/web/react_hack/via_test/via/public/img/system_design.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -210,7 +210,7 @@
      inkscape:label="background"
      style="display:inline">
     <rect
-       style="fill:#18110c;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:36, 36;paint-order:markers fill stroke"
+       style="fill:#10170d;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:36, 36;paint-order:markers fill stroke"
        id="rect878"
        width="2600"
        height="1408"
@@ -223,15 +223,15 @@
      inkscape:label="contour"
      style="display:inline;opacity:1;filter:url(#filter1681)">
     <image
-       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_FPS_outline.png"
-       xlink:href="Viaspec_FPS_outline.png"
-       width="1156.646"
-       height="775.28107"
+       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_system_white.png"
+       xlink:href="Viaspec_system_white.png"
+       width="1678.4296"
+       height="1242.8242"
        preserveAspectRatio="none"
-       id="image1270"
-       x="1181.677"
-       y="316.35947"
-       style="display:inline;stroke-width:2.07151" />
+       id="image1177-3"
+       x="921.5705"
+       y="0"
+       style="display:inline;stroke-width:1.29704" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -239,31 +239,31 @@
      inkscape:label="contour slight blur"
      style="display:inline;opacity:1;filter:url(#filter1777)">
     <image
-       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_FPS_outline.png"
-       xlink:href="Viaspec_FPS_outline.png"
-       width="1156.646"
-       height="775.28107"
+       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_system_white.png"
+       xlink:href="Viaspec_system_white.png"
+       width="1678.4296"
+       height="1242.8242"
        preserveAspectRatio="none"
-       id="image1513"
-       x="1181.677"
-       y="316.35947"
-       style="display:inline;stroke-width:2.07151" />
+       id="image1177"
+       x="921.5705"
+       y="0"
+       style="display:inline;stroke-width:1.29704" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="fps"
+     inkscape:label="system"
      style="display:inline">
     <image
-       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_FPS_transparent.png"
-       xlink:href="Viaspec_FPS_transparent.png"
-       width="1156.6464"
-       height="775.28137"
+       sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_system_transparent.png"
+       xlink:href="Viaspec_system_transparent.png"
+       style="stroke-width:1.29704"
+       y="0"
+       x="921.57007"
+       id="image1097"
        preserveAspectRatio="none"
-       id="image1130"
-       x="1181.6768"
-       y="316.35931"
-       style="display:inline;stroke-width:2.07151" />
+       height="1242.8247"
+       width="1678.4299" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -343,92 +343,5 @@
          x="139.85349"
          y="648.07745"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#ffffff;stroke-width:0.999999">COMPONENT</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g1875"
-     inkscape:label="annotations"
-     style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-size:27.7778px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';white-space:pre;inline-size:222.342;fill:#a49282;stroke-width:0.999997;fill-opacity:1;"
-       x="2014.5739"
-       y="413.12729"
-       id="text1853"
-       transform="translate(136,-16)"><tspan
-         x="2014.5739"
-         y="413.12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">FIXED STRUTS </tspan></tspan><tspan
-         x="2014.5739"
-         y="448.10062"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">ATTACH TO </tspan></tspan><tspan
-         x="2014.5739"
-         y="483.07394"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">MIRROR CELL</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.7778px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';white-space:pre;inline-size:222.342;fill:#a49282;stroke-width:0.999997;fill-opacity:1;"
-       x="2014.5739"
-       y="413.12729"
-       id="text1857"
-       transform="translate(134,398)"><tspan
-         x="2014.5739"
-         y="413.12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">NONROTATING </tspan></tspan><tspan
-         x="2014.5739"
-         y="448.10062"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">STRUCTURE</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.7778px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';white-space:pre;inline-size:363.02;fill:#a49282;stroke-width:0.999997;fill-opacity:1;"
-       x="2014.5739"
-       y="413.12729"
-       id="text1861"
-       transform="translate(76,550)"><tspan
-         x="2014.5739"
-         y="413.12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">FIBER DEROTATION CHAIN</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.7778px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';white-space:pre;inline-size:226.97;fill:#a49282;stroke-width:0.999997;fill-opacity:1;"
-       x="2014.5739"
-       y="413.12729"
-       id="text1865"
-       transform="translate(-890,570)"><tspan
-         x="2014.5739"
-         y="413.12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">FIBERS EXIT TO </tspan></tspan><tspan
-         x="2014.5739"
-         y="448.10062"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">SPECTROGRAPH</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.7778px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';white-space:pre;inline-size:226.97;fill:#a49282;stroke-width:0.999997;fill-opacity:1;"
-       x="2014.5739"
-       y="413.12729"
-       id="text1869"
-       transform="translate(-786,186)"><tspan
-         x="2014.5739"
-         y="413.12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">FOCAL </tspan></tspan><tspan
-         x="2014.5739"
-         y="448.10062"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">STRUCTURE </tspan></tspan><tspan
-         x="2014.5739"
-         y="483.07394"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">FLEXTURE</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:27.7778px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';white-space:pre;inline-size:275.583;fill:#a49282;stroke-width:0.999997;fill-opacity:1;"
-       x="2014.5739"
-       y="413.12729"
-       id="text1873"
-       transform="translate(-606,10)"><tspan
-         x="2014.5739"
-         y="413.12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">MOUNTING FLANGE </tspan></tspan><tspan
-         x="2014.5739"
-         y="448.10062"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sarabun SemiBold';-inkscape-font-specification:'Sarabun SemiBold, ';fill:#a49282;fill-opacity:1;stroke-width:0.999997">TO TELESCOPE</tspan></tspan></text>
   </g>
 </svg>
