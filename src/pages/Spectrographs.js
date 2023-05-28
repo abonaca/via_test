@@ -29,7 +29,7 @@ function App() {
         <div className="inner-left-bottom" style={{width:"30%", left:"100px"}}>
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Component</h4>
           <h3 style={{paddingBottom:"5px"}}>Focal Plane System</h3>
-          <p>ViaSpec will be fed by 600 robotic fibers, positioned in the focal plane by the vertically-oriented theta/phi actuators (developed by <a href="https://www.mpsag.com/en/">MPS</a>). This configuration allows for nearly simultaneously positioning of all fibers, and features high fault tolerance. Optical fibers will travel on the neutral axis of a controlled-radius cable carrier in the fiber derotator, and between the fiber positioner and the bench spectrograph.</p>
+          <p>ViaSpec will be fed by 600 robotic fibers, positioned in the focal plane by the vertically-oriented theta/phi actuators (developed by <a href="https://www.mpsag.com/en/">MPS</a>, and successfully deployed by <a href="https://www.sdss.org/">SDSS-V</a> and <a href="https://www.desi.lbl.gov/">DESI</a>). This configuration allows for nearly simultaneously positioning of all fibers, and features high fault tolerance. Optical fibers will travel on the neutral axis of a controlled-radius cable carrier in the fiber derotator, and between the fiber positioner and the bench spectrograph.</p>
         <table className="data">
             <tbody>
               <tr>
@@ -55,13 +55,13 @@ function App() {
                 <td>Resolution</td><td>15,000</td>
               </tr>
               <tr>
-                <td>Binary grating</td><td>2,600 lpm</td>
+                <td>Binary grating</td><td>2,000 lpm</td>
               </tr>
               <tr>
                 <td>Spectral coverage</td><td>{'510 nm \u2014 595 nm'}</td>
               </tr>
               <tr>
-                <td>CCD format</td><td>10K x 10K</td>
+                <td>CCD format</td><td>9K x 9K<span>{' / 10\u03bc pixels'}</span></td>
               </tr>
             </tbody>
           </table>

@@ -20,21 +20,15 @@ function App() {
         <div className="inner-left-top" style={{textColor:"#fff", top:"auto", bottom:"15%"}}>
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Overview</h4>
           <h3 style={{paddingBottom:"5px"}}>Survey Design</h3>
-          <p style={{color: "#fff"}}>The Via Survey will target stellar streams and dwarf galaxy candidates identified by the <a href="https://rubinobservatory.org/">Vera Rubin Observatory</a>, as well as map large contiguous areas. The notional survey design is to observe each field for 3x20 minutes, with the highest priority targets selected to have small parallaxes. The analysis pipeline to measure radial velocities, stellar parameters and interstellar gas will be based on the <a href="https://github.com/pacargile/MINESweeper">MINESweeper</a> framework.</p>
+          <p style={{color: "#fff"}}>The Via Survey will target stellar streams and dwarf galaxy candidates identified by the <a href="https://rubinobservatory.org/">Vera Rubin Observatory</a>, as well as map large contiguous areas of the sky. The Primary Survey will observe each field for 3x20 minutes. Regions of interest, like faint dwarf galaxy candidates, or perturbed regions of a stream, will be observed in the Deep Drilling Mode, with total exposure time up to 8 hours. The analysis pipeline to measure radial velocities, stellar parameters and interstellar gas will be based on the <a href="https://github.com/pacargile/MINESweeper">MINESweeper</a> framework.</p>
           
           <table className="data">
             <tbody>
               <tr>
-                <td>Faint limit</td><td>G = 20</td>
+                <td>RV precision ([Fe/H] = -1<span>/-2</span>)</td><td>{'\u003c100 m/s'}<span> / 300 m/s</span></td>
               </tr>
               <tr>
-                <td>Signal-to-Noise Ratio</td><td>> 3</td>
-              </tr>
-              <tr>
-                <td>RV precision ([Fe/H] = -1<span>/-2</span>)</td><td>100 m/s<span> / 300 m/s</span></td>
-              </tr>
-              <tr>
-                <td>[Fe/H] precision ([Fe/H] = -1<span>/-2</span>)</td><td>0.02 dex<span> / 0.04 dex</span></td>
+                <td>[Fe/H] precision ([Fe/H] = -1<span>/-2</span>)</td><td>{'\u003c0.02 dex'}<span> / 0.04 dex</span></td>
               </tr>
             </tbody>
           </table>
