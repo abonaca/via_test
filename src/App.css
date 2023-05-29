@@ -255,7 +255,7 @@ a:not(.hover-none):hover {
 .inner-center-middle {
   position: absolute;
   width: 80%;
-  bottom: 35%;
+  bottom: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0 auto;
@@ -338,7 +338,7 @@ h4 {
 
 p {
   position: relative;
-  font: 16px/26px Sarabun-Regular, Arial, Verdana, sans-serif;
+  font: 18px/24px Sarabun-Regular, Arial, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   line-height: 1.6;
