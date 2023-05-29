@@ -77,6 +77,13 @@ body, #root {
   font-weight: 400;
   font-display: block;
 }
+@font-face {
+  font-family: Sarabun-Italic;
+  src: url(../fonts/Sarabun-Italic.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
 
 a:focus {
   outline: dotted thin;
@@ -263,7 +270,15 @@ a:not(.hover-none):hover {
 }
 
 .indent {
-  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.inspiration {
+  font: 20px/24px Sarabun-Italic, Arial, Verdana, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.6;
+  margin-bottom: 30px;
 }
 
 
