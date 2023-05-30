@@ -293,7 +293,8 @@ a:not(.hover-none):hover {
 
 table {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 15px;
+    margin-bottom: 35px;
     margin-right: -20px;
 }
 table td {
@@ -358,4 +359,10 @@ p {
   font-style: normal;
   line-height: 1.6;
   color: #fff;
+}
+
+p.team {
+  font: 18px/24px Sarabun-SemiBold, Arial, Verdana, sans-serif;
+  padding-top:5px;
+  margin-bottom:-15px;
 }

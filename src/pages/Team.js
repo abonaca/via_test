@@ -14,13 +14,14 @@ function App() {
         </div>
         
         <div className="section">
-          <div className="background" style={{backgroundImage: "url(../img/pipes_colcorr_med.jpg)"}}></div>
-          <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
+          <div className="background" style={{backgroundImage: "url(../img/parts_med.jpg)"}}></div>
+          <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 70%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
           
-          <div className="inner-left-top" style={{textColor:"#fff", top:"auto", bottom:"15%"}}>
-            <h3>Leadership</h3>
-            <p style={{color: "#fff"}}>Via is lead by the team behind <a href="http://h3survey.rc.fas.harvard.edu/">H3</a>, a spectroscopic survey of ~300,000 Milky Way halo stars in the Northern hemisphere.</p>
-            <table className="data">
+          <div className="inner-left-bottom" style={{width:"35%", left:"100px", bottom:"5%"}}>
+            <h3>The Via Team</h3>
+            <p style={{color: "#fff"}}>A small group of engineers, project managers, and scientists with experience in building optical spectrographs, focal plane systems, and control and analysis pipelines are the core builders of Via.</p>
+            
+            <table className="data" style={{width:"80%"}}>
               <tbody>
                 <tr>
                   <td>PROJECT PIs</td>
@@ -36,36 +37,19 @@ function App() {
                 </tr>
               </tbody>
             </table>
+            
+            <p className="team">At Carnegie</p>
+            <p>Julia Brady, Charlie Hull, Solange Ramirez, Alan Uomoto</p>
+            
+            <p className="team">At the CfA</p>
+            <p>Phill Cargile, Vedant Chandra, Brian McLeod, Conor Sayers</p>
+            
+            <p className="team">At Arizona</p>
+            <p>Dennis Zaritsky</p>
           </div>
           
         </div>
         
-        <div className="section">
-          <div className="background" style={{backgroundImage: "url(../img/parts_med.jpg)"}}></div>
-          <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1) 65%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
-          <div className="inner-right-bottom" style={{textColor: "#fff", width:"30%"}}>
-            <h3>Team</h3>
-            <p style={{color: "#fff"}}>A small group of engineers, project managers, and scientists with experience in building optical spectrographs, focal plane systems, and control and analysis pipelines are the core builders of Via.</p>
-            
-            <table>
-            <tbody>
-              <tr>
-                <td>Julia Brady<span> / Carnegie</span></td><td>Solange Ramirez<span> / Carnegie</span></td>
-              </tr>
-              <tr>
-                <td>Phill Cargile<span> / CfA</span></td><td>Conor Sayers<span> / CfA</span></td>
-              </tr>
-              <tr>
-                <td>Vedant Chandra<span> / CfA</span></td><td>Alan Uomoto<span> / Carnegie</span></td>
-              </tr>
-              <tr>
-                <td>Charlie Hull<span> / Carnegie</span></td><td>Dennis Zaritsky<span> / Arizona</span></td>
-              </tr>
-            </tbody>
-          </table>
-            
-          </div>
-        </div>
     </div>
   );
 }
