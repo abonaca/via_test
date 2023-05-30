@@ -32,7 +32,7 @@ function App() {
                 <td>Altitude</td><td>2,616 m</td>
               </tr>
               <tr>
-                <td>Median seeing</td><td>1"</td>
+                <td>Median seeing</td><td>0.8"</td>
               </tr>
             </tbody>
           </table>
@@ -59,7 +59,7 @@ function App() {
                 <td>Altitude</td><td>2,380 m</td>
               </tr>
               <tr>
-                <td>Median seeing</td><td>0.7"</td>
+                <td>Median seeing</td><td>0.6"</td>
               </tr>
             </tbody>
           </table>

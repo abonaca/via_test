@@ -287,7 +287,6 @@ a:not(.hover-none):hover {
   top: 15%;
   left: 100px;
   width: 50%;
-  max-width: 420px;
   text-align: left;
 }
 
