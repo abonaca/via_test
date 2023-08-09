@@ -29,9 +29,7 @@ function App() {
       </div>
       
       <div className="section">
-        <div className="background" style={{backgroundImage: "url(../img/dm_models.jpg)"}}></div>
-        <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
-
+        <div className="background" style={{backgroundImage: "url(../img/dm_models_shade.jpg)"}}></div>
         <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Science Pillar</h4>
           <h3 style={{paddingBottom:"5px"}}>The Nature of Dark Matter</h3>
