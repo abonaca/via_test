@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6000"
+   height="2262"
+   viewBox="0 0 1587.4999 598.48751"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="dm_models.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath992">
+      <path
+         id="path994"
+         style="fill:none;stroke:#ff0000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 474.10107,-150.43909 251.59115,448.0484 h 362.21924 l 222.50992,-598.48749 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1001">
+      <path
+         id="path1003"
+         style="fill:none;stroke:#ff0000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -394.66345,-150.43909 V 448.0484 H -32.708798 L 189.80113,-150.43909 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1007">
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 868.19293,448.0484 222.50997,-598.48749 h 361.4254 V 448.0484 H 868.19293"
+         id="path1009" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1049">
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:7.9375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.545426"
+         id="rect1051"
+         width="821.14972"
+         height="442.85898"
+         x="-144.64212"
+         y="-61.313217" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22366667"
+     inkscape:cx="2451.5648"
+     inkscape:cy="906.40912"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(394.66345,150.43909)">
+    <g
+       id="g1047">
+      <image
+         sodipodi:absref="/home/ana/projects/via/plots/web/halo_cdm.png"
+         xlink:href="../../../../../../projects/via/plots/web/halo_cdm.png"
+         clip-path="url(#clipPath1001)"
+         style="stroke-width:0.32"
+         y="-150.43909"
+         x="-394.66345"
+         id="image1039"
+         preserveAspectRatio="none"
+         height="598.48749"
+         width="584.4646" />
+      <image
+         sodipodi:absref="/home/ana/projects/via/plots/web/halo_sidm.png"
+         xlink:href="../../../../../../projects/via/plots/web/halo_sidm.png"
+         transform="translate(-284.29994)"
+         clip-path="url(#clipPath992)"
+         style="stroke-width:0.32"
+         y="-150.43909"
+         x="251.59093"
+         id="image1041"
+         preserveAspectRatio="none"
+         height="598.48749"
+         width="584.72919" />
+      <image
+         sodipodi:absref="/home/ana/projects/via/plots/web/halo_wdm.png"
+         xlink:href="../../../../../../projects/via/plots/web/halo_wdm.png"
+         transform="translate(-538.68253)"
+         clip-path="url(#clipPath1007)"
+         style="stroke-width:0.32"
+         y="-150.43909"
+         x="868.19293"
+         id="image1043"
+         preserveAspectRatio="none"
+         height="598.48749"
+         width="583.93536" />
+      <path
+         id="path1045"
+         style="fill:none;stroke:#ffffff;stroke-width:7.93749982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54542595"
+         d="M 189.80113,-150.43909 -32.70879,448.0484 h 362.21924 l 222.50992,-598.48749 z" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 329.5104,448.0484 222.50997,-598.48749 h 361.4254 V 448.0484 H 329.5104"
+       id="path979" />
+    <path
+       id="path977"
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0 0 L 0 2262 L 1368.0176 2262 L 2209 0 L 0 0 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-394.66345,-150.43909)" />
+    <g
+       id="g1037"
+       clip-path="url(#clipPath1049)"
+       transform="rotate(180,248.92622,13.930822)">
+      <image
+         sodipodi:absref="/home/ana/projects/via/plots/web/halo_cdm.png"
+         xlink:href="../../../../../../projects/via/plots/web/halo_cdm.png"
+         clip-path="url(#clipPath1001)"
+         style="stroke-width:0.32"
+         y="-150.43909"
+         x="-394.66345"
+         id="image973"
+         preserveAspectRatio="none"
+         height="598.48749"
+         width="584.4646" />
+      <image
+         sodipodi:absref="/home/ana/projects/via/plots/web/halo_sidm.png"
+         xlink:href="../../../../../../projects/via/plots/web/halo_sidm.png"
+         transform="translate(-284.29994)"
+         clip-path="url(#clipPath992)"
+         style="stroke-width:0.32"
+         y="-150.43909"
+         x="251.59093"
+         id="image945"
+         preserveAspectRatio="none"
+         height="598.48749"
+         width="584.72919" />
+      <image
+         sodipodi:absref="/home/ana/projects/via/plots/web/halo_wdm.png"
+         xlink:href="../../../../../../projects/via/plots/web/halo_wdm.png"
+         transform="translate(-538.68253)"
+         clip-path="url(#clipPath1007)"
+         style="stroke-width:0.32"
+         y="-150.43909"
+         x="868.19293"
+         id="image959"
+         preserveAspectRatio="none"
+         height="598.48749"
+         width="583.93536" />
+      <path
+         id="path981"
+         style="fill:none;stroke:#ffffff;stroke-width:7.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.545426"
+         d="M 189.80113,-150.43909 -32.70879,448.0484 h 362.21924 l 222.50992,-598.48749 z" />
+    </g>
+  </g>
+</svg>
