@@ -1,9 +1,16 @@
 // src/Title.js
 
-import React from 'react'
+import React, { useState } from 'react';
 import './App.css';
 
 function Title() {
+  
+  const [isOpen, setIsOpen] = useState(false);
+  
+  function handleClick() {
+    setIsOpen(current => !current);
+  }
+  
   return (
     <div id="header" className="section">
       <div className="header-inner">
@@ -34,6 +41,27 @@ function Title() {
         </div>
         
       </div>
+      
+      <div id="menu" style={{width: isOpen ? "300px" : "0px"}}>
+        <div id="menu-background"></div>
+        <div id="menu-navigation" style={{opacity: isOpen ? "1" : "0", visibility: isOpen ? "inherit" : "hidden"}}>
+          <ul className="nav-links">
+            <li className="nav-item"><a href="/#/mission/">Mission</a></li>
+            <li className="nav-item"><a href="/#/spectrographs/">Spectrographs</a></li>
+            <li className="nav-item"><a href="/#/telescopes/">Telescopes</a></li>
+            <li className="nav-item"><a href="/#/survey/">Survey</a></li>
+            <li className="nav-item"><a href="/#/team/">Team</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      
+      <button id="hamburger" role="button" onClick={handleClick}>
+        <div id="bar1" className="bar" style={{transform: isOpen ? "translate(0px, 6px) rotate(45deg)" : "translate(0px)"}}></div>
+        <div id="bar2" className="bar" style={{width: isOpen ? "0%" : "100%", transform: isOpen ? "translate(12px)" : "translate(0px)"}}></div>
+        <div id="bar3" className="bar" style={{transform: isOpen ? "translate(0px, -6px) rotate(-45deg)" : "translate(0px)"}}></div>
+      </button>
+      
     </div>
   )
 }

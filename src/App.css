@@ -7,6 +7,7 @@ dl, h3, menu, ol, p, pre, ul {
 
 header, section {
   display: block;
+  width: 100%;
 }
 
 [hidden] {
@@ -182,6 +183,94 @@ a:not(.hover-none):hover {
   transition: color .25s ease;
 }
 
+
+#hamburger, #menu-navigation, .bar, .play-arrow {
+  position: absolute;
+}
+#hamburger {
+  display: none;
+  top: 50%;
+  right: 50px;
+  width: 24px;
+  height: 24px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 55;
+  padding: 0 8px;
+  border: 0;
+  background: 0 0;
+  appeareance: none;
+  -webkit-transition: opacity .2s linear .1s;
+  transition: opacity .2s linear .1s;
+  cursor: pointer;
+}
+#hamburger:active, #hamburger:focus {
+  outline: 0;
+}
+.bar {
+  top: 5px;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+  height: 2px;
+}
+#menu, #menu-close {
+  position: fixed;
+  top: 0;
+  height: 100%;
+}
+#bar2 {
+  top: 11px;
+}
+#bar3 {
+  top: 17px;
+}
+
+.bar, #menu, #menu-navigation {
+ -webkit-transition-duration: .4s;
+  transition-duration: .4s;
+}
+
+#menu {
+  right: 0;
+  width: 0px;
+  z-index: 12;
+}
+#menu-background {
+  -webkit-transform-origin: left top;
+  transform-origin: left top;
+  display: block;
+  width: 100%;
+  height: 120%;
+  background-color: rgba(0, 0, 0, .8);
+}
+#menu-navigation {
+  top: 75px;
+  right: 50px;
+  width: 200px;
+}
+#menu-navigation .nav-links li {
+  display: block;
+  margin: 0;
+  text-align: right;
+}
+#menu-navigation .nav-links li.primary {
+  display: none;
+}
+#menu-navigation .nav-links a {
+  display: block;
+  font: 16px/40px Sarabun-SemiBold, Arial, Verdana, sans-serif;
+  font-weight: 400;
+  font-weight: 500;
+  font-style: normal;
+  color: #fff;
+  text-transform: uppercase;
+  border-bottom: 1pt solid #333;
+}
+
+
 #wrapper, .background, .knockout, .section, .section-inner {
   display: block;
   width: 100%;
@@ -240,9 +329,10 @@ a:not(.hover-none):hover {
 
 .inner-left-bottom {
   position: absolute;
-  bottom: 15%;
-  left: 150px;
+  bottom: 10%;
+  left: 100px;
   text-align: left;
+  max-width: 520px;
 }
 .inner-center-bottom {
   position: absolute;
@@ -285,9 +375,10 @@ a:not(.hover-none):hover {
 .inner-left-top {
   position: absolute;
   top: 15%;
-  left: 100px;
+  left: 50px;
   width: 50%;
   text-align: left;
+  max-width: 520px;
 }
 
 table {
@@ -365,3 +456,63 @@ p.team {
   padding-top:5px;
   margin-bottom:-15px;
 }
+
+@media screen and (max-width: 600px){
+.inner-left-top {
+  width: auto;
+  max-width: auto;
+  right:20px;
+  left:20px;
+}
+
+.inner-left-bottom {
+  width: auto;
+  max-width: auto;
+  bottom: 5%;
+  right:20px;
+  left:20px;
+}
+}
+
+@media screen and (max-width: 1200px){
+.inner-left-top {
+  max-width: 420px;
+  left: 50px;
+}
+
+.inner-left-bottom {
+  max-width: 520px;
+  left: 50px;
+  bottom: 5%;
+}
+}
+
+@media screen and (min-width: 960px){
+#menu {
+  display: none;
+}
+}
+
+@media screen and (max-width: 960px){
+#navigation {
+  display: none;
+}
+
+#hamburger {
+  display: block;
+}
+
+#logo {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  width: 100px;
+  height: auto;
+/*   margin-top: -5px; */
+/*   margin-left: 15px; */
+/*   z-index: 55; */
+}
+}
+
+/* width:"35%", top:"20%", left:"100px", maxWidth:"600px" */

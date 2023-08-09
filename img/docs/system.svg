@@ -196,12 +196,12 @@
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:zoom="0.51615385"
-     inkscape:cx="1300"
-     inkscape:cy="704"
+     inkscape:cx="1285.68"
+     inkscape:cy="664.57396"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g1515"
      showguides="false"
      inkscape:document-rotation="0" />
   <g
@@ -225,13 +225,13 @@
     <image
        sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_system_white.png"
        xlink:href="Viaspec_system_white.png"
-       width="1678.4296"
-       height="1242.8242"
-       preserveAspectRatio="none"
-       id="image1177-3"
-       x="921.5705"
+       style="display:inline;stroke-width:1.29704"
        y="0"
-       style="display:inline;stroke-width:1.29704" />
+       x="921.5705"
+       id="image1177-3"
+       preserveAspectRatio="none"
+       height="1242.8242"
+       width="1678.4296" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -241,13 +241,13 @@
     <image
        sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_system_white.png"
        xlink:href="Viaspec_system_white.png"
-       width="1678.4296"
-       height="1242.8242"
-       preserveAspectRatio="none"
-       id="image1177"
-       x="921.5705"
+       style="display:inline;stroke-width:1.29704"
        y="0"
-       style="display:inline;stroke-width:1.29704" />
+       x="921.5705"
+       id="image1177"
+       preserveAspectRatio="none"
+       height="1242.8242"
+       width="1678.4296" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -257,13 +257,13 @@
     <image
        sodipodi:absref="/home/ana/web/react_hack/via_test/via/img/docs/Viaspec_system_transparent.png"
        xlink:href="Viaspec_system_transparent.png"
-       style="stroke-width:1.29704"
-       y="0"
-       x="921.57007"
-       id="image1097"
-       preserveAspectRatio="none"
+       width="1678.4299"
        height="1242.8247"
-       width="1678.4299" />
+       preserveAspectRatio="none"
+       id="image1097"
+       x="921.57007"
+       y="0"
+       style="stroke-width:1.29704" />
   </g>
   <g
      inkscape:groupmode="layer"

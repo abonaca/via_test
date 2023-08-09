@@ -19,7 +19,7 @@ function App() {
         <div className="inner-left-bottom" style={{width:"30%", left:"100px"}}>
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Overview</h4>
           <h3 style={{paddingBottom:"5px"}}>System Design</h3>
-          <p>ViaSpec has three main systems: (1) the fiber positioner, mounted at the f/5 Cassegrain focus and attached to the primary mirror cell with six struts, (2) a ~25m run of optical fibers from the fiber positioner to the spectrograph, kept short to minimize throughput losses, and (3) the bench spectrograph, mounted on a cart for convenient storage, and parked directly on the telescope platform.</p>
+          <p>ViaSpec has three main systems: (1) the fiber positioner, mounted at the f/5 Cassegrain focus and attached to the primary mirror cell with six struts, (2) a ~25m run of optical fibers from the fiber positioner to the spectrograph, kept short to minimize throughput losses, and (3) the bench spectrograph, mounted on a cart for convenient storage, and parked on the telescope platform.</p>
           <p>In addition, ViaSpec will have a camera-based metrology system to provide iterative fiber positioning feedback, guiders and wavefront sensors, and a set of fixed fibers that can be sent to additional spectrographs, possibly serving exoplanet or transient research.</p>
         </div>
       </div>

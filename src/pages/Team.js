@@ -9,7 +9,7 @@ function App() {
           <div className="background" style={{backgroundImage: "url(../img/us_night_med.jpg)"}}></div>
           <div className="inner-center-bottom" style={{bottom:"2%"}}>
             <h1>A Collaboration</h1>
-            <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'Carnegie Observatories \u25cf Center for Astrophysics \u25cf University of Arizona'}</h4>
+            <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'Carnegie Observatories \u25cf Center for Astrophysics'}</h4>
           </div>
         </div>
         
@@ -43,9 +43,6 @@ function App() {
             
             <p className="team">At the CfA</p>
             <p>Phill Cargile, Vedant Chandra, Brian McLeod, Conor Sayers</p>
-            
-            <p className="team">At Arizona</p>
-            <p>Dennis Zaritsky</p>
           </div>
           
         </div>
