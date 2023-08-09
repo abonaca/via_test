@@ -35,7 +35,7 @@ function App() {
         <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Science Pillar</h4>
           <h3 style={{paddingBottom:"5px"}}>The Nature of Dark Matter</h3>
-          <p>Motions of stars and galaxies indicate that 85% of matter in the universe is invisible. This dark matter is likely a new type of a fundamental particle. However, it has eluded direct detection in our laboratory experiments, so we don’t know if this particle is massive or ultra-light, nor if the particle interacts with either itself or other fundamental particles.</p>
+          <p>Motions of stars and galaxies indicate that 85% of matter in the universe is invisible. This dark matter is likely a new type of a fundamental particle. However, it has eluded direct detection in our laboratory experiments, so we don’t know if this particle is massive or ultra-light, nor to what extent the particle interacts with itself or other fundamental particles.</p>
           <p>Fortunately, these different particle physics models can be distinguished by using the Milky Way as a laboratory. Within the Galaxy, models predict very different behavior of dark matter: it could be distributed smoothly, or in thousands of small clumps, or even be a sea of turbulent waves. The Via Project will use dozens of recently discovered stellar streams to precisely map the gravitational pull of dark matter, and ultimately reveal its nature.</p>
         </div>
       </div>
