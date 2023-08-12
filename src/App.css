@@ -332,7 +332,7 @@ a:not(.hover-none):hover {
   bottom: 10%;
   left: 100px;
   text-align: left;
-  max-width: 520px;
+  max-width: 620px;
 }
 .inner-center-bottom {
   position: absolute;
@@ -378,7 +378,7 @@ a:not(.hover-none):hover {
   left: 50px;
   width: 50%;
   text-align: left;
-  max-width: 520px;
+  max-width: 620px;
 }
 
 table {
@@ -444,7 +444,7 @@ h4 {
 
 p {
   position: relative;
-  font: 18px/24px Sarabun-Regular, Arial, Verdana, sans-serif;
+  font: 18px/23px Sarabun-Regular, Arial, Verdana, sans-serif;
   font-weight: 400;
   font-style: normal;
   line-height: 1.6;
@@ -481,7 +481,7 @@ p.team {
 }
 
 .inner-left-bottom {
-  max-width: 520px;
+  max-width: 620px;
   left: 50px;
   bottom: 5%;
 }
