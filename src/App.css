@@ -332,7 +332,7 @@ a:not(.hover-none):hover {
   bottom: 10%;
   left: 100px;
   text-align: left;
-  max-width: 620px;
+  max-width: 520px;
 }
 .inner-center-bottom {
   position: absolute;
@@ -378,7 +378,7 @@ a:not(.hover-none):hover {
   left: 50px;
   width: 50%;
   text-align: left;
-  max-width: 620px;
+  max-width: 520px;
 }
 
 table {
@@ -481,7 +481,7 @@ p.team {
 }
 
 .inner-left-bottom {
-  max-width: 620px;
+  max-width: 520px;
   left: 50px;
   bottom: 5%;
 }
