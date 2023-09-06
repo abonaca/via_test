@@ -6,6 +6,8 @@ import Spectrographs from "./pages/Spectrographs";
 import Telescopes from "./pages/Telescopes";
 import Survey from "./pages/Survey";
 import Team from "./pages/Team";
+import Credits from "./pages/Credits";
+import Support from "./pages/Support";
 
 export default function App() {
   return (
@@ -17,6 +19,8 @@ export default function App() {
         <Route path="telescopes" element={<Telescopes />} />
         <Route path="survey" element={<Survey />} />
         <Route path="team" element={<Team />} />
+        <Route path="credits" element={<Credits />} />
+        <Route path="support" element={<Support />} />
       </Routes>
     </HashRouter>
   );

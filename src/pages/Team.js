@@ -1,7 +1,7 @@
 import '../App.css';
 import Title from '../Title';
 
-function App() {
+function Team() {
   return (
     <div id="wrapper">
       <Title />
@@ -51,4 +51,4 @@ function App() {
   );
 }
 
-export default App;
+export default Team;
