@@ -11,7 +11,7 @@
   <image page="mission">
     <name>mission_tng_thumb.jpg</name>
     <source>https://www.tng-project.org/static/tng/media/TNG50_protocluster_z1_dm_gasvel_4k.png</source>
-    <author>TNG Collaboration</author>
+    <author>D. Nelson / TNG Collaboration</author>
     <web>https://www.tng-project.org/</web>
     <description>A protocluster forming in the Illustris TNG50 hydrodynamical simulation. Large dark matter halos (orange) are connected by a bridge of tenuous dark matter bridge (blue). High speed gas motions (in white) reveal ram-pressure and tidal stripping of orbiting satellite galaxies, as well as galactic-scale outflows driven by feedback.</description>
   </image>
@@ -19,7 +19,7 @@
   <image page="mission">
     <name>mission_cosmicweb_thumb.jpg</name>
     <source>https://www.tng-project.org/static/tng/media/boxComposite_TNG100-1_gas-shocks_machnum_dm-coldens_2000.png</source>
-    <author>TNG Collaboration</author>
+    <author>D. Nelson / TNG Collaboration</author>
     <web>https://www.tng-project.org/</web>
     <description>Dark matter density of the entire TNG100-1 cosmological simulation box (orange/white), overlaid on top of the average number of shocks along the line of sight (blue).</description>
   </image>
