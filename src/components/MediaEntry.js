@@ -6,7 +6,7 @@ function MediaEntry(props) {
   const { name, source, author, web, description } = props
   return (
     <div className="media">
-      <a href={`${source}`}><img src={`${process.env.PUBLIC_URL}img/${name}`} width="300" height="300" alt="${name}" /></a>
+      <a href={`${source}`}><img src={`img/${name}`} width="300" height="300" alt="${name}" /></a>
       <p>by</p>
       <a className="author" href={`${web}`}>{author}</a>
       <div>{description}</div>

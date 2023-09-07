@@ -110,6 +110,22 @@ body, #root {
   font: 18px/24px Sarabun-SemiBold, Arial, Verdana, sans-serif;
 }
 
+#support-gallery {
+  width: calc(100% - 100px);
+  max-width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 50px;
+  color: #666;
+  font: 16px/23px Sarabun-SemiBold, Arial, Verdana, sans-serif;
+  text-align: center;
+}
+
+.support img {
+  height: 300px;
+}
+
 /*  src/Title.css  */
 @font-face {
   font-family: Asap-Regular;
@@ -534,7 +550,7 @@ p.team {
 }
 
 @media screen and (min-width: 1200px){
-#credits-gallery {
+#credits-gallery, #support-gallery {
   width: calc(100% - 100px);
   grid-template-columns: 1fr 1fr 1fr;
 }
@@ -551,7 +567,7 @@ p.team {
   left: 50px;
   bottom: 5%;
 }
-#credits-gallery {
+#credits-gallery, #support-gallery {
   width: calc(100% - 50px);
   grid-template-columns: 1fr 1fr;
 }
@@ -585,6 +601,13 @@ p.team {
 }
 }
 
+@media screen and (max-width: 690px){
+#support-gallery {
+  width: 90%;
+  grid-template-columns: 1fr;
+}
+}
+
 @media screen and (max-width: 600px){
 .inner-left-top {
   width: auto;
@@ -601,11 +624,10 @@ p.team {
   left:20px;
 }
 
-#credits-gallery {
+#credits-gallery, #support-gallery {
   width: 90%;
   grid-template-columns: 1fr;
 }
 }
-
 
 /* width:"35%", top:"20%", left:"100px", maxWidth:"600px" */

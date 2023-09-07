@@ -1,5 +1,6 @@
 import '../App.css';
 import Title from '../Title';
+import Footer from '../Footer';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
         
       </div>
       
+      <Footer />
     </div>
   );
 }

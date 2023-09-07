@@ -1,5 +1,6 @@
 import '../App.css';
 import Title from '../Title';
+import Footer from '../Footer';
 
 function Team() {
   return (
@@ -47,6 +48,7 @@ function Team() {
           
         </div>
         
+      <Footer />
     </div>
   );
 }
