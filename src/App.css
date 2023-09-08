@@ -615,6 +615,10 @@ p.team {
 /*   margin-left: 15px; */
 /*   z-index: 55; */
 }
+
+h1 {
+  font: 60px/70px Sarabun-SemiBold, Arial, Verdana, sans-serif;
+}
 }
 
 @media screen and (max-width: 690px){
@@ -623,9 +627,6 @@ p.team {
   grid-template-columns: 1fr;
 }
 
-h1 {
-  font: 40px/50px Sarabun-SemiBold, Arial, Verdana, sans-serif;
-}
 .background-gradient, .background-optional {
   background-image: linear-gradient(to right, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%);
   opacity: 0.6;
@@ -650,6 +651,10 @@ h1 {
   bottom: 5%;
   right:20px;
   left:20px;
+}
+
+h1 {
+  font: 40px/50px Sarabun-SemiBold, Arial, Verdana, sans-serif;
 }
 
 #credits-gallery, #support-gallery {
