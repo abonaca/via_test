@@ -16,7 +16,7 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/mmt_panorama_igor_med.jpg)"}}></div>
-        <div className="inner-left-top" style={{textColor: "#fff", width:"35%"}}>
+        <div className="inner-left-top">
           <h4 style={{textTransform:"uppercase"}}>Arizona</h4>
           <h3>MMT</h3>
           <p style={{color: "#fff"}}>Via builds upon the legacy of Hectochelle in bringing world-leading wide-field, high-resolution, fiber-fed spectroscopy to the 6.5m MMT. The <a href="https://www.mmto.org/">MMT Observatory</a> is a joint facility of the Smithsonian Institution and the University of Arizona.</p>
@@ -43,7 +43,7 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/lco_colcorr_igor_med.jpg)"}}></div>
-        <div className="inner-left-top" style={{textColor: "#fff", width:"35%"}}>
+        <div className="inner-left-top">
           <h4 style={{textTransform:"uppercase"}}>Chile</h4>
           <h3>Magellan</h3>
           <p style={{color: "#fff"}}>Via will be mounted at the f/5 focus of the 6.5m Magellan/Clay telescope, which has the identical 1deg field-of-view to MMT. Operated by the Carnegie Institution for Science at the <a href="https://www.lco.cl/">Las Campanas Observatory</a>.</p>

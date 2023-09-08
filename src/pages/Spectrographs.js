@@ -17,7 +17,9 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/system_design.png)"}}></div>
-        <div className="inner-left-bottom" style={{width:"30%", left:"100px"}}>
+        <div className="background-optional"></div>
+
+        <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Overview</h4>
           <h3 style={{paddingBottom:"5px"}}>System Design</h3>
           <p>ViaSpec has three main systems: (1) the fiber positioner, mounted at the f/5 Cassegrain focus and attached to the primary mirror cell with six struts, (2) a ~25m run of optical fibers from the fiber positioner to the spectrograph, kept short to minimize throughput losses, and (3) the bench spectrograph, mounted on a cart for convenient storage, and parked on the telescope platform.</p>
@@ -27,7 +29,9 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/viaspec_fps_med.png)"}}></div>
-        <div className="inner-left-bottom" style={{width:"30%", left:"100px"}}>
+        <div className="background-optional"></div>
+
+        <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Component</h4>
           <h3 style={{paddingBottom:"5px"}}>Focal Plane System</h3>
           <p>ViaSpec will be fed by 600 robotic fibers, positioned in the focal plane by the vertically-oriented theta/phi actuators (developed by <a href="https://www.mpsag.com/en/">MPS</a>, and successfully deployed by <a href="https://www.sdss.org/">SDSS-V</a> and <a href="https://www.desi.lbl.gov/">DESI</a>). This configuration allows nearly simultaneous positioning of all fibers, and features high fault tolerance. Optical fibers will travel on the neutral axis of a controlled-radius cable carrier in the fiber derotator, and between the fiber positioner and the bench spectrograph.</p>
@@ -46,7 +50,9 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/viaspec_optics_med.png)"}}></div>
-        <div className="inner-left-top" style={{width:"30%", left:"100px"}}>
+        <div className="background-optional"></div>
+
+        <div className="inner-left-top">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Component</h4>
           <h3 style={{paddingBottom:"5px"}}>Bench Spectrograph</h3>
           <p>ViaSpec will have a 260 mm beam spectrograph to accommodate 600 fibers, which will be located in a gravity-invariant, thermally stable enclosure. It will employ a binary grating that spans the spectral region between the Mgb triplet (for precise radial velocity measurement) and the NaD doublet (for detecting interstellar gas) with a uniformly high efficiency of ~90%. The camera has six optical elements and produces a high-quality image on a single large-frame CCD.</p>

@@ -363,7 +363,7 @@ a:not(.hover-none):hover {
 }
 
 
-#wrapper, .background, .background-gradient, .knockout, .section, .section-inner {
+#wrapper, .background, .background-gradient, .background-optional, .knockout, .section, .section-inner {
   display: block;
   width: 100%;
 }
@@ -390,7 +390,7 @@ a:not(.hover-none):hover {
   will-change: transform;
 }
 
-.background, .background-gradient, .knockout {
+.background, .background-gradient, .background-optional, .knockout {
   position: absolute;
   height: 100%;
   margin: 0;
@@ -406,6 +406,12 @@ a:not(.hover-none):hover {
   background-image: linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%);
   background-color: rgba(0,0,0,0);
   opacity: 0.6;
+  zorder: 1;
+}
+
+.background-optional {
+  background-color: rgba(0,0,0,0);
+  opacity: 0;
   zorder: 1;
 }
 
@@ -473,8 +479,7 @@ a:not(.hover-none):hover {
 .inner-left-top {
   position: absolute;
   top: 15%;
-  left: 50px;
-  width: 50%;
+  left: 100px;
   text-align: left;
   max-width: 520px;
 }
@@ -564,7 +569,7 @@ p.team {
 
 @media screen and (max-width: 1200px){
 .inner-left-top {
-  max-width: 420px;
+  max-width: 520px;
   left: 50px;
 }
 
@@ -618,8 +623,9 @@ p.team {
   grid-template-columns: 1fr;
 }
 
-.background-gradient {
+.background-gradient, .background-optional {
   background-image: linear-gradient(to right, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%);
+  opacity: 0.6;
 }
 }
 
@@ -627,6 +633,7 @@ p.team {
 .background {
   height: 1200px;
 }
+
 .inner-left-top {
   width: auto;
   max-width: auto;

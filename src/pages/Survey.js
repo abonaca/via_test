@@ -16,8 +16,9 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/survey_footprint_offset_med.png)"}}></div>
+        <div className="background-optional"></div>
         
-        <div className="inner-left-top" style={{textColor:"#fff", width:"30%", top:"auto", bottom:"15%", backgroundColor:"rgba(0,0,0,0.)"}}>
+        <div className="inner-left-top">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Overview</h4>
           <h3 style={{paddingBottom:"5px"}}>Survey Design</h3>
           <p style={{color: "#fff"}}>The Via Survey will target stellar streams (orange) and dwarf galaxy candidates (red) identified by the <a href="https://rubinobservatory.org/">Vera Rubin Observatory</a>, as well as map large contiguous areas of the sky (blue). The Primary Survey will observe each field for 3x20 minutes. Faint dwarf galaxy candidates and perturbed regions of streams will be observed in the Deep Drilling Mode, with total exposure times of up to 8 hours. The analysis pipeline to measure radial velocities, stellar parameters and interstellar gas will be based on the <a href="https://github.com/pacargile/MINESweeper">MINESweeper</a> framework.</p>
