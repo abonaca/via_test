@@ -19,7 +19,7 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/mission_cosmicweb.jpg)"}}></div>
-        <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
+        <div className="background-gradient"></div>
         
         <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Overview</h4>
@@ -51,7 +51,7 @@ function App() {
       
       <div className="section">
         <div className="background" style={{backgroundImage: "url(../img/outflow_schneider.jpg)"}}></div>
-        <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.6}}></div>
+        <div className="background-gradient"></div>
         <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Science Pillar</h4>
           <h3 style={{paddingBottom:"5px"}}>The Cold Gas Feeding the Galaxy</h3>

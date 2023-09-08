@@ -363,7 +363,7 @@ a:not(.hover-none):hover {
 }
 
 
-#wrapper, .background, .knockout, .section, .section-inner {
+#wrapper, .background, .background-gradient, .knockout, .section, .section-inner {
   display: block;
   width: 100%;
 }
@@ -390,7 +390,7 @@ a:not(.hover-none):hover {
   will-change: transform;
 }
 
-.background, .knockout {
+.background, .background-gradient, .knockout {
   position: absolute;
   height: 100%;
   margin: 0;
@@ -402,6 +402,13 @@ a:not(.hover-none):hover {
   overflow: hidden;
 }
 
+.background-gradient {
+  background-image: linear-gradient(to right, rgba(0,0,0,1) 30%, rgba(0,0,0,0) 60%);
+  background-color: rgba(0,0,0,0);
+  opacity: 0.6;
+  zorder: 1;
+}
+
 
 .section {
   height: 100%;
@@ -409,7 +416,6 @@ a:not(.hover-none):hover {
   padding: 0;
   text-align: center;
   position: relative;
-  overflow: auto;
   display: block;
 }
 
@@ -567,6 +573,11 @@ p.team {
   left: 50px;
   bottom: 5%;
 }
+
+.background-gradient {
+  background-image: linear-gradient(to right, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 80%);
+}
+
 #credits-gallery, #support-gallery {
   width: calc(100% - 50px);
   grid-template-columns: 1fr 1fr;
@@ -606,9 +617,16 @@ p.team {
   width: 90%;
   grid-template-columns: 1fr;
 }
+
+.background-gradient {
+  background-image: linear-gradient(to right, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%);
+}
 }
 
 @media screen and (max-width: 600px){
+.background {
+  height: 1200px;
+}
 .inner-left-top {
   width: auto;
   max-width: auto;
