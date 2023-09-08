@@ -623,6 +623,9 @@ p.team {
   grid-template-columns: 1fr;
 }
 
+h1 {
+  font: 40px/50px Sarabun-SemiBold, Arial, Verdana, sans-serif;
+}
 .background-gradient, .background-optional {
   background-image: linear-gradient(to right, rgba(0,0,0,1) 100%, rgba(0,0,0,0) 100%);
   opacity: 0.6;

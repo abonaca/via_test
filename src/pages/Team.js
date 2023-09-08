@@ -16,9 +16,9 @@ function Team() {
         
         <div className="section">
           <div className="background" style={{backgroundImage: "url(../img/parts_med.jpg)"}}></div>
-          <div className="background" style={{zorder:1, backgroundImage:"linear-gradient(to right, rgba(0,0,0,1) 40%, rgba(0,0,0,0) 70%)", backgroundColor:"rgba(0,0,0,0)", opacity:0.8}}></div>
+          <div className="background-gradient"></div>
           
-          <div className="inner-left-bottom" style={{width:"35%", left:"100px", bottom:"5%"}}>
+          <div className="inner-left-bottom">
             <h3>The Via Team</h3>
             <p style={{color: "#fff"}}>A small group of engineers, project managers, and scientists with experience in building optical spectrographs, focal plane systems, and control and analysis pipelines are the core builders of Via.</p>
             
