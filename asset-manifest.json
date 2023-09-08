@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b84f0bfa.css",
-    "main.js": "./static/js/main.be15f191.js",
+    "main.css": "./static/css/main.04b7b6e5.css",
+    "main.js": "./static/js/main.f3417da2.js",
     "static/media/Sarabun-Italic.ttf": "./static/media/Sarabun-Italic.28824b7a4922858e47da.ttf",
     "static/media/Sarabun-Regular.ttf": "./static/media/Sarabun-Regular.7f9f38eec4942d763fa1.ttf",
     "static/media/Sarabun-Medium.ttf": "./static/media/Sarabun-Medium.b7152f7b86b43f62732b.ttf",
@@ -10,11 +10,11 @@
     "static/media/Asap-Medium.ttf": "./static/media/Asap-Medium.661edfc559d1220a4348.ttf",
     "static/media/Asap-Regular.ttf": "./static/media/Asap-Regular.b4d52aca2eeb50f67dbd.ttf",
     "index.html": "./index.html",
-    "main.b84f0bfa.css.map": "./static/css/main.b84f0bfa.css.map",
-    "main.be15f191.js.map": "./static/js/main.be15f191.js.map"
+    "main.04b7b6e5.css.map": "./static/css/main.04b7b6e5.css.map",
+    "main.f3417da2.js.map": "./static/js/main.f3417da2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b84f0bfa.css",
-    "static/js/main.be15f191.js"
+    "static/css/main.04b7b6e5.css",
+    "static/js/main.f3417da2.js"
   ]
 }
