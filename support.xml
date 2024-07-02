@@ -21,6 +21,6 @@
   <entity level="partners">
     <logo>logo_stanford.svg</logo>
     <name>Stanford University</name>
-    <web>kipac.stanford.edu</web>
+    <web>https://kipac.stanford.edu</web>
   </entity>
 </support>
