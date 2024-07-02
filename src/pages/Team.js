@@ -10,7 +10,7 @@ function Team() {
           <div className="background" style={{backgroundImage: "url(../img/us_night_med.jpg)"}}></div>
           <div className="inner-center-bottom" style={{bottom:"2%"}}>
             <h1>A Collaboration</h1>
-            <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'Carnegie Observatories \u25cf Center for Astrophysics'}</h4>
+            <h4 style={{textTransform:"uppercase", paddingTop:"10px"}}>{'Carnegie Observatories \u25cf Center for Astrophysics \u25cf Stanford'}</h4>
           </div>
         </div>
         
@@ -40,10 +40,13 @@ function Team() {
             </table>
             
             <p className="team">At Carnegie</p>
-            <p>Julia Brady, Charlie Hull, Solange Ramirez, Alan Uomoto</p>
+            <p>Julia Brady, David Cruz, Julian Garcia, Charlie Hull, Jack Piotrowski</p>
             
             <p className="team">At the CfA</p>
-            <p>Phill Cargile, Vedant Chandra, Brian McLeod, Conor Sayers</p>
+            <p>Nelson Caldwell, Phill Cargile, Vedant Chandra, Andrew Cline, Brian McLeod, Conor Sayres, Abby White, Joe Zajac</p>
+            
+            <p className="team">At Stanford</p>
+            <p>Susan Clark, Risa Wechsler</p>
           </div>
           
         </div>

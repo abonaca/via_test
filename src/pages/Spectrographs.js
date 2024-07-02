@@ -34,7 +34,7 @@ function App() {
         <div className="inner-left-bottom">
           <h4 style={{textTransform:"uppercase", paddingBottom:"5px"}}>Component</h4>
           <h3 style={{paddingBottom:"5px"}}>Focal Plane System</h3>
-          <p>ViaSpec will be fed by 600 robotic fibers, positioned in the focal plane by the vertically-oriented theta/phi actuators (developed by <a href="https://www.mpsag.com/en/">MPS</a>, and successfully deployed by <a href="https://www.sdss.org/">SDSS-V</a> and <a href="https://www.desi.lbl.gov/">DESI</a>). This configuration allows nearly simultaneous positioning of all fibers, and features high fault tolerance. Optical fibers will travel on the neutral axis of a controlled-radius cable carrier in the fiber derotator, and between the fiber positioner and the bench spectrograph.</p>
+          <p>ViaSpec will be fed by 600 robotic fibers, positioned in the focal plane by vertically-oriented actuators. This configuration allows nearly simultaneous positioning of all fibers, and features high fault tolerance. Optical fibers will travel on the neutral axis of a controlled-radius cable carrier in the fiber derotator, and between the fiber positioner and the bench spectrograph.</p>
         <table className="data">
             <tbody>
               <tr>
