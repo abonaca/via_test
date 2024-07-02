@@ -17,4 +17,10 @@
     <name>Smithsonian Astrophysical Observatory</name>
     <web>https://pweb.cfa.harvard.edu/about/about-smithsonian-astrophysical-observatory</web>
   </entity>
+  
+  <entity level="partners">
+    <logo>logo_stanford.svg</logo>
+    <name>Stanford University</name>
+    <web>kipac.stanford.edu</web>
+  </entity>
 </support>
